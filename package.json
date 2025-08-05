@@ -6,7 +6,6 @@
     "dev": "next dev --turbopack -p 66",
     "build": "next build",
     "start": "next start -p 66",
-    "test": "TEST_ENV=1234567890A mocha --reporter spec",
     "lint": "next lint"
   },
   "dependencies": {
